@@ -1,1 +1,3 @@
-# .github
+# Yazı Tahtası
+
+Öğrenme ve gelişim.
